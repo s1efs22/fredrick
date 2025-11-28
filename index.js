@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, REST, Routes } = require('discord.js');
 
-const TOKEN = '';
-const APPLICATION_ID = ''; // من Developer Portal > General Information
+const TOKEN = '73ba125a2e7438013cb1598dd7a576ab1899fb9eeff10f63fa05229f02fbeafb';
+const APPLICATION_ID = '1443955152120840263'; // من Developer Portal > General Information
 
 const client = new Client({ 
     intents: [
